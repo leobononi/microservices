@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservice-edge" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../Gradle/gradle-6.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservice-edge" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservice-eureka" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../Gradle/gradle-6.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservice-eureka" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservice-middle/microservice-account" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../Gradle/gradle-6.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservice-middle/microservice-account" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
